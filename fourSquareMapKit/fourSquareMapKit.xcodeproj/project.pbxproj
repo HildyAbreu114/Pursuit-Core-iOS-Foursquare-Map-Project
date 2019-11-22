@@ -17,6 +17,8 @@
 		641130D0237FAF76001BA92A /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 641130CF237FAF76001BA92A /* Model.swift */; };
 		641130D2237FAFA2001BA92A /* Secrets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 641130D1237FAFA2001BA92A /* Secrets.swift */; };
 		641130D423810E4E001BA92A /* GetLocation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 641130D323810E4E001BA92A /* GetLocation.swift */; };
+		641130D823871A44001BA92A /* CollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 641130D723871A44001BA92A /* CollectionViewController.swift */; };
+		641130DA23871C51001BA92A /* CollectionsCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 641130D923871C51001BA92A /* CollectionsCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +46,8 @@
 		641130CF237FAF76001BA92A /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 		641130D1237FAFA2001BA92A /* Secrets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Secrets.swift; sourceTree = "<group>"; };
 		641130D323810E4E001BA92A /* GetLocation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GetLocation.swift; sourceTree = "<group>"; };
+		641130D723871A44001BA92A /* CollectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewController.swift; sourceTree = "<group>"; };
+		641130D923871C51001BA92A /* CollectionsCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionsCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +92,8 @@
 				641130A9237F621D001BA92A /* AppDelegate.swift */,
 				641130AB237F621D001BA92A /* SceneDelegate.swift */,
 				641130AD237F621D001BA92A /* SearchViewController.swift */,
+				641130D923871C51001BA92A /* CollectionsCollectionViewCell.swift */,
+				641130D723871A44001BA92A /* CollectionViewController.swift */,
 				641130CF237FAF76001BA92A /* Model.swift */,
 				641130D323810E4E001BA92A /* GetLocation.swift */,
 				641130D1237FAFA2001BA92A /* Secrets.swift */,
@@ -213,6 +219,8 @@
 				641130D2237FAFA2001BA92A /* Secrets.swift in Sources */,
 				641130AA237F621D001BA92A /* AppDelegate.swift in Sources */,
 				641130D423810E4E001BA92A /* GetLocation.swift in Sources */,
+				641130DA23871C51001BA92A /* CollectionsCollectionViewCell.swift in Sources */,
+				641130D823871A44001BA92A /* CollectionViewController.swift in Sources */,
 				641130AC237F621D001BA92A /* SceneDelegate.swift in Sources */,
 				641130D0237FAF76001BA92A /* Model.swift in Sources */,
 			);
